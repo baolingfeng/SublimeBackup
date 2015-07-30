@@ -1,0 +1,5 @@
+[
+	{
+		"keys": ["ctrl+super+i"], "command": "insert_snippet", "args": {"contents": "\\textit{${0:$SELECTION}}"}
+	}
+]

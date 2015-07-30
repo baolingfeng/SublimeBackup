@@ -1,0 +1,27 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"C++ Snippets",
+		"C++ Starting Kit",
+		"ConvertToUTF8",
+		"Emmet",
+		"File History",
+		"FileDiffs",
+		"Git",
+		"LaTeX Snippets",
+		"LaTeXing",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"Python Auto-Complete",
+		"QuickGotoAnything",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Flatland"
+	]
+}

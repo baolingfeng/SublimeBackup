@@ -1,0 +1,8 @@
+{
+	"cmd": ["latexmk", "-cd",
+	    "-e", "\\$pdflatex = 'xelatex %O -interaction=nonstopmode -synctex=1 %S'",
+	    //"-silent",
+	    "-f", "-pdf"],
+ 
+	"path": "C:\\Program Files\\MiKTeX 2.9\\miktex\bin\\x64:$PATH"
+}

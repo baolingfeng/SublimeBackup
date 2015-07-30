@@ -1,0 +1,3 @@
+{
+	"cmd": ["python", "$file", "-A", "zjubaolingfeng", "update", "appengine-try-python-django"]
+}
