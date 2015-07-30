@@ -8,6 +8,7 @@
 		"C++ Snippets",
 		"C++ Starting Kit",
 		"ConvertToUTF8",
+		"DocBlockr",
 		"Emmet",
 		"File History",
 		"FileDiffs",
@@ -20,6 +21,7 @@
 		"Python Auto-Complete",
 		"QuickGotoAnything",
 		"SublimeCodeIntel",
+		"SublimeLinter",
 		"SublimeREPL",
 		"Terminal",
 		"Theme - Flatland"
